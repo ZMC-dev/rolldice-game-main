@@ -1,7 +1,6 @@
 
 //declare variables
 var scores, roundScore, activePlayer, gamePlaying;
-
 init();
 
 // Getting elements with ID  and returns a object

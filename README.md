@@ -1,2 +1,3 @@
 # roll-dice-game
-Jeu de dés entre deux joueurs en JavaScript - Exercice n° 2 (Studi)
+
+Jeu de dés entre deux joueurs en JavaScript avec Framework Ionic - Exercice n° 2 (Studi)
